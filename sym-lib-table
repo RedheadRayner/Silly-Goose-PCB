@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tetris)(type Legacy)(uri ${KIPRJMOD}/tetris.lib)(options "")(descr ""))
+)
